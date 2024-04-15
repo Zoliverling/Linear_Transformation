@@ -33,5 +33,5 @@ The Fourier transformer is an innovative adaptation of the traditional transform
 - **Preserved Depth and Complexity:** Despite the simplification in attention calculation, the depth and complexity of the model remain intact. The feed-forward and normalization layers ensure that the model can still learn complex representations and perform sophisticated transformations on the input data.
 
 ## Code Demonstration
-https://github.com/Zoliverling/Linear_Transformation/blob/main/Fourier_Transformer.py
+[https://github.com/Zoliverling/Linear_Transformation/blob/main/Fourier_Transformer.py]("Frourier Transformer")
 
