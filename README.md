@@ -1,4 +1,7 @@
 # Fourier Transformer
+Zheling Zhang
+
+zheling.zhang@vanderbilt.edu
 
 ## Introduction
 This project aims to harness the power of the Fourier transformer, a variant of the linear transformer architecture, to predict stock prices. 
