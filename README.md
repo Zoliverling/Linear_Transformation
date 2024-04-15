@@ -37,3 +37,6 @@ The Fourier transformer is an innovative adaptation of the traditional transform
 
 [Code Demonstration](https://github.com/Zoliverling/Linear_Transformation/blob/main/Linear%20Transformer.ipynb)
 
+## Interactive Demonstration
+[Demo with Gradio](https://github.com/Zoliverling/Linear_Transformation/blob/main/stock_prediction.ipynb)
+
