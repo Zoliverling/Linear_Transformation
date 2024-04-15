@@ -27,6 +27,13 @@ The Fourier transformer is an innovative adaptation of the traditional transform
 - This not only reduces the computational complexity but also allows the model to handle much longer sequences without a significant increase in computation time.
 - The feed-forward and normalization layers after the Fourier transform in the encoder remain unchanged, preserving the structure that enables complex representations.
 
+### LSTM
+Long Short-Term Memory (LSTM) networks are a special kind of Recurrent Neural Network (RNN) capable of learning long-term dependencies. LSTMs are explicitly designed to avoid the long-term dependency problem, remembering information for extended periods through their internal gates:
+- **Forget Gate:** Decides what information should be thrown away or kept.
+- **Input Gate:** Updates the cell state with new information.
+- **Cell State:** Carries relevant information throughout the processing of the sequence.
+- **Output Gate:** Decides what the next hidden state should be.
+
 ### Comparison
 - **Computational Efficiency:** The Fourier transformer is computationally more efficient than the traditional transformer. By converting the attention mechanism into the frequency domain, it sidesteps the need for quadratic computation with respect to sequence length.
 - **Handling Long Sequences:** The Fourier transform's ability to work in the frequency domain means it can handle long-range dependencies and large sequences better than the traditional multi-head attention mechanism.
@@ -39,4 +46,13 @@ The Fourier transformer is an innovative adaptation of the traditional transform
 
 ## Interactive Demonstration
 [Demo with Gradio](https://github.com/Zoliverling/Linear_Transformation/blob/main/stock_prediction.ipynb)
+
+
+## Useful Resources
+[A Financial Time-Series Prediction Model Based on MultiplexAttention and Linear Transformer Structure](https://www.mdpi.com/2076-3417/13/8/5175)
+[Forecasting Economics and Financial Time Series: ARIMA vs. LSTM](https://arxiv.org/abs/1803.06386)
+[Explore Attention Machanism](https://www.3blue1brown.com/lessons/attention)
+[Time Series Forecasting](https://www.tableau.com/learn/articles/time-series-forecasting)
+
+
 
