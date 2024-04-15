@@ -32,3 +32,6 @@ The Fourier transformer is an innovative adaptation of the traditional transform
 - **Handling Long Sequences:** The Fourier transform's ability to work in the frequency domain means it can handle long-range dependencies and large sequences better than the traditional multi-head attention mechanism.
 - **Preserved Depth and Complexity:** Despite the simplification in attention calculation, the depth and complexity of the model remain intact. The feed-forward and normalization layers ensure that the model can still learn complex representations and perform sophisticated transformations on the input data.
 
+## Code Demonstration
+https://github.com/Zoliverling/Linear_Transformation/blob/main/Fourier_Transformer.py
+
