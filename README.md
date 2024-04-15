@@ -68,5 +68,8 @@ Consideration should be given to augmenting the current model by integrating it 
 
 [Time Series Forecasting](https://www.tableau.com/learn/articles/time-series-forecasting)
 
+## Citation
+Xu C, Li J, Feng B, Lu B. A Financial Time-Series Prediction Model Based on Multiplex Attention and Linear Transformer Structure. Applied Sciences. 2023; 13(8):5175. https://doi.org/10.3390/app13085175
+
 
 
