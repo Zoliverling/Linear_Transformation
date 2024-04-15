@@ -116,7 +116,7 @@ class LinearTransformer(nn.Module):
         # Output layer to convert encoder output back to feature size (if only using the encoder)
         return self.output_layer(src)
     
-
+# Create sequences for the model
 def create_inout_sequences(input_data, tw):
     inout_seq = []
     L = len(input_data)
