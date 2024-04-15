@@ -50,8 +50,11 @@ Long Short-Term Memory (LSTM) networks are a special kind of Recurrent Neural Ne
 
 ## Useful Resources
 [A Financial Time-Series Prediction Model Based on MultiplexAttention and Linear Transformer Structure](https://www.mdpi.com/2076-3417/13/8/5175)
+
 [Forecasting Economics and Financial Time Series: ARIMA vs. LSTM](https://arxiv.org/abs/1803.06386)
+
 [Explore Attention Machanism](https://www.3blue1brown.com/lessons/attention)
+
 [Time Series Forecasting](https://www.tableau.com/learn/articles/time-series-forecasting)
 
 
